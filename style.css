@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background: tomato;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
